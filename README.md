@@ -1,2 +1,2 @@
 # angular
-git start up starting
+git starting
